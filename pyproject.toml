@@ -1,0 +1,34 @@
+[project]
+name = "psrl"
+version = "0.1.0"
+description = "RL framework for Pokemon Showdown battles"
+requires-python = ">=3.13,<3.14"
+dependencies = [
+    "torch>=2.6",
+    "numpy>=2.0",
+    "httpx>=0.28",
+    "tqdm",
+    "websockets>=17.1",
+]
+
+[project.urls]
+Repository = "https://github.com/PriyadarshanPatil/pokemon-showdown-rl"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["psrl*"]
+
+[tool.ruff]
+# The codebase is written to 100 columns (p99 is exactly 100); `ruff format` targets that.
+line-length = 100
+
+[tool.ruff.lint]
+# Deliberately narrow so `ruff check` is a signal and stays green. Excluded on purpose:
+# E4/E7 (`import json, math, sys`, `torch.manual_seed(s); np.random.seed(s)`) are the
+# house style, and B905 would be wrong at tools/league_gate.py:41, which zips a list with
+# its own tail to pair consecutive checkpoints.
+select = ["F", "E9", "W", "B"]
+ignore = ["B905"]

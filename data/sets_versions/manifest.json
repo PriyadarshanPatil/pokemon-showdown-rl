@@ -1,0 +1,461 @@
+[
+ {
+  "sha": "64c595197014a5c73c7750f7a5da765daca4e830",
+  "date": "2024-05-10T00:52:33Z",
+  "epoch": 1715327553,
+  "file": "2024-05-10_64c59519.json",
+  "species": 506,
+  "md5": "4470be81",
+  "msg": "Move Random Battles files to a separate folder (#10285)"
+ },
+ {
+  "sha": "9f7f79d79b60902aabd3405dbe177101bcd28323",
+  "date": "2024-05-30T15:32:45Z",
+  "epoch": 1717108365,
+  "file": "2024-05-30_9f7f79d7.json",
+  "species": 506,
+  "md5": "42ebbaca",
+  "msg": "Random Battles: May 2024 balance patch (#10324)"
+ },
+ {
+  "sha": "e055d629b33bfc4f1e7e5c79f3aeb47f18ada00f",
+  "date": "2024-06-01T16:32:40Z",
+  "epoch": 1717284760,
+  "file": "2024-06-01_e055d629.json",
+  "species": 506,
+  "md5": "ccdd9eff",
+  "msg": "Randomized format set updates (#10326)"
+ },
+ {
+  "sha": "05f7811d116fede574b72462be3d6ee6091e31ab",
+  "date": "2024-06-17T03:53:58Z",
+  "epoch": 1718621638,
+  "file": "2024-06-17_05f7811d.json",
+  "species": 506,
+  "md5": "c8bf0469",
+  "msg": "Randomized format set updates (#10350)"
+ },
+ {
+  "sha": "5b24baa5a27cfc11fe69d971d5795ff1c043bf61",
+  "date": "2024-06-30T04:27:51Z",
+  "epoch": 1719746871,
+  "file": "2024-06-30_5b24baa5.json",
+  "species": 506,
+  "md5": "669d789e",
+  "msg": "Random Battles: June 2024 balance patch (#10375)"
+ },
+ {
+  "sha": "77f6c9de2e9574bde1b78380997b03e94195a2af",
+  "date": "2024-07-01T13:48:29Z",
+  "epoch": 1719866909,
+  "file": "2024-07-01_77f6c9de.json",
+  "species": 506,
+  "md5": "7099a71e",
+  "msg": "Randomized format set updates (#10376)"
+ },
+ {
+  "sha": "085839ca393b0a51fa8df78f0fe46bc5b4bedc89",
+  "date": "2024-07-12T06:06:30Z",
+  "epoch": 1720789590,
+  "file": "2024-07-12_085839ca.json",
+  "species": 506,
+  "md5": "78cee63f",
+  "msg": "Revamp ability generation in Random Battles (#10392)"
+ },
+ {
+  "sha": "3049d4cf7ac6e66df0693a41d4c0ddce25b0a556",
+  "date": "2024-07-16T00:19:47Z",
+  "epoch": 1721114387,
+  "file": "2024-07-16_3049d4cf.json",
+  "species": 506,
+  "md5": "d56d382c",
+  "msg": "Randomized format set updates (#10421)"
+ },
+ {
+  "sha": "df2036b01b64ad0f81ac518061f908351705a71b",
+  "date": "2024-07-31T22:28:11Z",
+  "epoch": 1722490091,
+  "file": "2024-07-31_df2036b0.json",
+  "species": 506,
+  "md5": "6244e48f",
+  "msg": "Randomized format set updates (#10452)"
+ },
+ {
+  "sha": "389b03e161b0b9aca5d26a3bd1aee5faacf78387",
+  "date": "2024-07-31T22:28:58Z",
+  "epoch": 1722490138,
+  "file": "2024-07-31_389b03e1.json",
+  "species": 506,
+  "md5": "58d48207",
+  "msg": "Random Battles: July 2024 balance patch (#10451)"
+ },
+ {
+  "sha": "f0bfd40ccf13e2de942973524a0569f63185ae7b",
+  "date": "2024-08-18T14:59:53Z",
+  "epoch": 1724018393,
+  "file": "2024-08-18_f0bfd40c.json",
+  "species": 506,
+  "md5": "f3da9d6c",
+  "msg": "Randomized format set updates (#10491)"
+ },
+ {
+  "sha": "7826b8b7d054368604e29175ec379f9c7ec7bd30",
+  "date": "2024-09-01T06:25:53Z",
+  "epoch": 1725197153,
+  "file": "2024-09-01_7826b8b7.json",
+  "species": 506,
+  "md5": "b994c12f",
+  "msg": "Random Battles: August 2024 balance patch (#10514)"
+ },
+ {
+  "sha": "1a96e9abe1ea080895700c6d9e3ae6957ac3a8b3",
+  "date": "2024-09-01T06:54:26Z",
+  "epoch": 1725198866,
+  "file": "2024-09-01_1a96e9ab.json",
+  "species": 506,
+  "md5": "b298e003",
+  "msg": "Randomized format set updates (#10516)"
+ },
+ {
+  "sha": "604019454013eacf3d26daa472473ebe14f727f4",
+  "date": "2024-09-17T16:34:07Z",
+  "epoch": 1726616047,
+  "file": "2024-09-17_60401945.json",
+  "species": 506,
+  "md5": "2d248999",
+  "msg": "Randomized format set updates (#10552)"
+ },
+ {
+  "sha": "2da507df8007fc3fc83484c84f7537fd09479966",
+  "date": "2024-09-28T18:51:26Z",
+  "epoch": 1727574686,
+  "file": "2024-09-28_2da507df.json",
+  "species": 506,
+  "md5": "30fb01d2",
+  "msg": "Random Battles: September 2024 balance patch (#10578)"
+ },
+ {
+  "sha": "702a16a6574f5ab76ed692488a2aed8ddbd80499",
+  "date": "2024-09-30T14:36:15Z",
+  "epoch": 1727732175,
+  "file": "2024-09-30_702a16a6.json",
+  "species": 506,
+  "md5": "0bab4a93",
+  "msg": "Randomized format set updates (#10585)"
+ },
+ {
+  "sha": "f2b538d8c2c87806bc0a047d25c20ed5c4084e5c",
+  "date": "2024-10-23T17:45:06Z",
+  "epoch": 1729730706,
+  "file": "2024-10-23_f2b538d8.json",
+  "species": 506,
+  "md5": "b2d91bff",
+  "msg": "Randomized format set updates (#10621)"
+ },
+ {
+  "sha": "f78ff14f21951244684e1e12c841f5061195f3a7",
+  "date": "2024-10-30T17:29:46Z",
+  "epoch": 1730334586,
+  "file": "2024-10-30_f78ff14f.json",
+  "species": 506,
+  "md5": "3e4abef5",
+  "msg": "Random Battles: October 2024 balance patch (#10638)"
+ },
+ {
+  "sha": "5e8e7aee914c6161dfd262f313aa578a20defd36",
+  "date": "2024-11-18T22:13:23Z",
+  "epoch": 1731996803,
+  "file": "2024-11-18_5e8e7aee.json",
+  "species": 507,
+  "md5": "90be1c93",
+  "msg": "Randomized format set updates (#10680)"
+ },
+ {
+  "sha": "7df50ca2cc035b05b1fcb66fd91b5ab38524042c",
+  "date": "2024-12-01T00:50:10Z",
+  "epoch": 1733043010,
+  "file": "2024-12-01_7df50ca2.json",
+  "species": 507,
+  "md5": "d4d9c5ac",
+  "msg": "Random Battles: November 2024 balance patch (#10713)"
+ },
+ {
+  "sha": "8510b48058cc2dde74cb6d5ccda277b8b8422da9",
+  "date": "2024-12-01T16:05:19Z",
+  "epoch": 1733097919,
+  "file": "2024-12-01_8510b480.json",
+  "species": 507,
+  "md5": "3a620dc5",
+  "msg": "Randomized format set updates (#10714)"
+ },
+ {
+  "sha": "8896008659a665011a18f478b3bc1cc73fe54f7f",
+  "date": "2024-12-02T22:49:47Z",
+  "epoch": 1733208587,
+  "file": "2024-12-02_88960086.json",
+  "species": 507,
+  "md5": "ad55f618",
+  "msg": "Gen 9 Random Battle: Hotfix Delphox (#10721)"
+ },
+ {
+  "sha": "c6047ccfe6d036eebb74ca84639aeef836acc8f4",
+  "date": "2024-12-16T16:18:43Z",
+  "epoch": 1734394723,
+  "file": "2024-12-16_c6047ccf.json",
+  "species": 507,
+  "md5": "49e7118a",
+  "msg": "Randomized format set & ladder updates (#10758)"
+ },
+ {
+  "sha": "5bd8b0d029759ffe623905eb4f7730c24f8dfccf",
+  "date": "2025-01-01T06:22:14Z",
+  "epoch": 1735741334,
+  "file": "2025-01-01_5bd8b0d0.json",
+  "species": 507,
+  "md5": "890e3d79",
+  "msg": "Random Battles: December 2024 balance patch (#10775)"
+ },
+ {
+  "sha": "ad28a307a33779dcc02d7234ec2b681bdcfebdf3",
+  "date": "2025-01-02T16:51:30Z",
+  "epoch": 1735865490,
+  "file": "2025-01-02_ad28a307.json",
+  "species": 507,
+  "md5": "80f2ea57",
+  "msg": "Randomized format set updates (#10789)"
+ },
+ {
+  "sha": "16c3f42d1f1bc55e0c0e49ffbb1bd9a1a553c344",
+  "date": "2025-02-01T07:28:46Z",
+  "epoch": 1738423726,
+  "file": "2025-02-01_16c3f42d.json",
+  "species": 507,
+  "md5": "8ff0adbe",
+  "msg": "Random Battles: January 2025 balance patch (#10852)"
+ },
+ {
+  "sha": "aa000fb8a2981b336b8750f86d835a4989df0bed",
+  "date": "2025-02-01T07:29:39Z",
+  "epoch": 1738423779,
+  "file": "2025-02-01_aa000fb8.json",
+  "species": 507,
+  "md5": "b1a2dd3f",
+  "msg": "Randomized format set updates (#10854)"
+ },
+ {
+  "sha": "6e66cd2fff0d996bdd92fb3410d4d643a75cfe09",
+  "date": "2025-03-03T02:05:24Z",
+  "epoch": 1740996324,
+  "file": "2025-03-03_6e66cd2f.json",
+  "species": 507,
+  "md5": "51d5c0aa",
+  "msg": "Random Battles: February 2025 balance patch (#10931)"
+ },
+ {
+  "sha": "46ab6455c914849cdd4dcfa218c145a7f116bc76",
+  "date": "2025-03-03T02:05:41Z",
+  "epoch": 1740996341,
+  "file": "2025-03-03_46ab6455.json",
+  "species": 507,
+  "md5": "dad07b58",
+  "msg": "Randomized format set updates (#10934)"
+ },
+ {
+  "sha": "152e7eed9306534c8498f57433e1cf2e6387f7ac",
+  "date": "2025-04-01T00:28:48Z",
+  "epoch": 1743492528,
+  "file": "2025-04-01_152e7eed.json",
+  "species": 507,
+  "md5": "271baa6c",
+  "msg": "Random Battles: March 2025 balance patch (#10999)"
+ },
+ {
+  "sha": "09facb8cbb2727f72afa506aaa4f7469e2263f61",
+  "date": "2025-04-01T00:31:12Z",
+  "epoch": 1743492672,
+  "file": "2025-04-01_09facb8c.json",
+  "species": 507,
+  "md5": "cf1dfe6e",
+  "msg": "Randomized format set updates (#11000)"
+ },
+ {
+  "sha": "591a83cd63712640df60e205337be9ed800f61bc",
+  "date": "2025-05-01T05:25:00Z",
+  "epoch": 1746102300,
+  "file": "2025-05-01_591a83cd.json",
+  "species": 507,
+  "md5": "1009ffea",
+  "msg": "Random Battles: April 2025 balance patch (#11075)"
+ },
+ {
+  "sha": "0f60b6458e41c3d88a697d79b17c76625c1eb96a",
+  "date": "2025-05-01T05:36:19Z",
+  "epoch": 1746102979,
+  "file": "2025-05-01_0f60b645.json",
+  "species": 507,
+  "md5": "bbff4c37",
+  "msg": "Randomized format set updates (#11073)"
+ },
+ {
+  "sha": "9c857973a271cf51719870a4f71f09d3f3ac27a4",
+  "date": "2025-05-30T17:43:22Z",
+  "epoch": 1748652202,
+  "file": "2025-05-30_9c857973.json",
+  "species": 507,
+  "md5": "57562fd3",
+  "msg": "Random Battles: May 2025 balance patch (#11148)"
+ },
+ {
+  "sha": "d67f64d00e1b93723b524d5922fc35727ac16e3b",
+  "date": "2025-05-31T07:23:55Z",
+  "epoch": 1748701435,
+  "file": "2025-05-31_d67f64d0.json",
+  "species": 507,
+  "md5": "0e93faef",
+  "msg": "Randomized format set updates (#11156)"
+ },
+ {
+  "sha": "bc832df368550a086d2b396e683282d3f6a692ec",
+  "date": "2025-07-01T07:17:36Z",
+  "epoch": 1751379456,
+  "file": "2025-07-01_bc832df3.json",
+  "species": 507,
+  "md5": "3e9abd1e",
+  "msg": "Random Battles: June 2025 balance patch (#11229)"
+ },
+ {
+  "sha": "6397bfddb3db4e916dd792e03c43355f7366e8ab",
+  "date": "2025-07-01T07:25:58Z",
+  "epoch": 1751379958,
+  "file": "2025-07-01_6397bfdd.json",
+  "species": 507,
+  "md5": "64f4f299",
+  "msg": "Randomized format set updates (#11232)"
+ },
+ {
+  "sha": "525d72e6fefd964b1e9fe2b5e7f3828d68db0852",
+  "date": "2025-08-01T13:51:31Z",
+  "epoch": 1754081491,
+  "file": "2025-08-01_525d72e6.json",
+  "species": 507,
+  "md5": "5c0659f7",
+  "msg": "Randomized format set updates (#11311)"
+ },
+ {
+  "sha": "d2591ecc75f69dd7772c46f0a275cb1a5bab9979",
+  "date": "2025-09-01T05:39:28Z",
+  "epoch": 1756730368,
+  "file": "2025-09-01_d2591ecc.json",
+  "species": 507,
+  "md5": "3c6a8033",
+  "msg": "Random Battles: August 2025 balance patch (#11411)"
+ },
+ {
+  "sha": "ce510af51fb6b75b6548133fadba9021fd7cf93d",
+  "date": "2025-09-03T19:06:17Z",
+  "epoch": 1756951577,
+  "file": "2025-09-03_ce510af5.json",
+  "species": 508,
+  "md5": "d7b17e36",
+  "msg": "Randomized format set updates (#11426)"
+ },
+ {
+  "sha": "9c52db4321d905a66ccdbe52d37aac2cf80fca73",
+  "date": "2025-09-13T21:39:06Z",
+  "epoch": 1757824746,
+  "file": "2025-09-13_9c52db43.json",
+  "species": 508,
+  "md5": "920ea35f",
+  "msg": "Random Battles hotfix: Bulky Attacker Appletun (#11427)"
+ },
+ {
+  "sha": "9b9112c22799e6c4758d17a56d10fa1ccceaefc6",
+  "date": "2025-11-02T05:27:16Z",
+  "epoch": 1762090036,
+  "file": "2025-11-02_9b9112c2.json",
+  "species": 508,
+  "md5": "e69eb59a",
+  "msg": "Randomized format set updates (#11551)"
+ },
+ {
+  "sha": "f10c7af9e5f693f38539890d83927bac47fc2f4e",
+  "date": "2026-01-01T09:16:12Z",
+  "epoch": 1767287772,
+  "file": "2026-01-01_f10c7af9.json",
+  "species": 508,
+  "md5": "8fcbebed",
+  "msg": "Randomized format set udpates (#11655)"
+ },
+ {
+  "sha": "ad9d7add4b9b643b4a2b2162cf643240c9d22151",
+  "date": "2026-01-01T09:48:23Z",
+  "epoch": 1767289703,
+  "file": "2026-01-01_ad9d7add.json",
+  "species": 508,
+  "md5": "1fb8b39d",
+  "msg": "Random Battles: December 2025 balance patch (#11653)"
+ },
+ {
+  "sha": "ccdc32dd7cde25fd9e4bed64820e885f66e78a4e",
+  "date": "2026-02-01T20:00:57Z",
+  "epoch": 1770004857,
+  "file": "2026-02-01_ccdc32dd.json",
+  "species": 508,
+  "md5": "82006557",
+  "msg": "Randomized format set updates (#11728)"
+ },
+ {
+  "sha": "1d8968acdf011351c454021965561f851fe3dcc2",
+  "date": "2026-03-01T10:20:05Z",
+  "epoch": 1772389205,
+  "file": "2026-03-01_1d8968ac.json",
+  "species": 508,
+  "md5": "7f7222bc",
+  "msg": "Randomized formats update (#11782)"
+ },
+ {
+  "sha": "0c22331b1eca30f4ccc1d90424532ab0e59bd903",
+  "date": "2026-04-02T06:48:33Z",
+  "epoch": 1775137713,
+  "file": "2026-04-02_0c22331b.json",
+  "species": 508,
+  "md5": "94707523",
+  "msg": "Random Battles: March 2026 balance patch (#11865)"
+ },
+ {
+  "sha": "2079c747dfe15f7a0a3e0f0b14e52b99a0dd27fc",
+  "date": "2026-06-02T00:48:22Z",
+  "epoch": 1780386502,
+  "file": "2026-06-02_2079c747.json",
+  "species": 508,
+  "md5": "602aa33c",
+  "msg": "Randomized format set updates (#12079)"
+ },
+ {
+  "sha": "3ca9da44890610d588764621d731482a27f401ba",
+  "date": "2026-07-01T15:54:02Z",
+  "epoch": 1782946442,
+  "file": "2026-07-01_3ca9da44.json",
+  "species": 508,
+  "md5": "10e8c07d",
+  "msg": "Random Battles: June 2026 balance patch (#12139)"
+ },
+ {
+  "sha": "636de89dd23cae71267f4a4a81bca833324926b0",
+  "date": "2026-07-05T23:07:36Z",
+  "epoch": 1783318056,
+  "file": "2026-07-05_636de89d.json",
+  "species": 509,
+  "md5": "97690a46",
+  "msg": "Random Battles set updates (#12145)"
+ },
+ {
+  "sha": "db93869dcc216c0be39e7f86e9a64edcc7496d89",
+  "date": "2026-08-01T21:37:39Z",
+  "epoch": 1785645459,
+  "file": "2026-08-01_db93869d.json",
+  "species": 509,
+  "md5": "61ae98f2",
+  "msg": "Random Battles: July 2026 balance patch (#12206)"
+ }
+]

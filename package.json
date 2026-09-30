@@ -1,0 +1,24 @@
+{
+  "name": "psrl-sim",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Node-side Pokemon Showdown simulator bridge, observation encoder and verification gates for psrl",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PriyadarshanPatil/pokemon-showdown-rl.git"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "test": "bash tools/run_gates.sh",
+    "test:sync": "node node/test/verify_sync.js 200 gen9randombattle",
+    "test:actions": "node node/test/verify_actions.js 250 gen9randombattle",
+    "test:encode": "node node/test/verify_encode.js 60",
+    "test:posterior": "node node/test/verify_posterior.js 200",
+    "test:damage": "node node/test/verify_damage.js",
+    "test:baselines": "node node/test/verify_baselines.js 200",
+    "bench:sim": "node tools/bench_sim.js repro gen9randombattle"
+  }
+}

@@ -1,0 +1,53 @@
+# Ladder credentials — never published
+.env
+
+# Local Claude operating rules — not published. Anchored: a bare `CLAUDE.md` matches at
+# any depth, which silently ignored every per-module file too (docs/CODEBASE_NOTES.md).
+/CLAUDE.md
+CLAUDE.local.md
+.claude/settings.local.json
+
+# ---------------------------------------------------------------------------
+# Replay corpus and run artifacts. Never commit these.
+#
+# data/replays.db holds cached replay BODIES, which still contain raw usernames
+# (see docs/PHASE_A.md, "A2 open gap"). Redaction happens at trajectory-emission
+# time, so the cache itself must never leave the machine. It is also large and
+# fully rebuildable with tools/crawl_replays.py.
+# ---------------------------------------------------------------------------
+data/*.db
+data/*.db-wal
+data/*.db-shm
+data/*.log
+data/diverges.json
+data/ladder_fixture.jsonl
+data/transcripts/
+data/trajectories/
+data/shards/
+data/cache/
+
+# Historical sets.json revisions: ~13 MB, refetchable with
+# tools/fetch_sets_versions.py. The manifest is kept for provenance.
+data/sets_versions/*.json
+!data/sets_versions/manifest.json
+
+# Training outputs
+runs/
+*.log
+checkpoints/
+*.pt
+*.ckpt
+wandb/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
